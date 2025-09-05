@@ -30,6 +30,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+# Rohit Kelkar's First CS193 Homework
+# My Favorite Things about CS 193!
+- My instructors are both nice
+- The people in the class are cool
+- The work is easy
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
