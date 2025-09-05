@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-# My Favorite Things about CS 193
+# My Favorite Things about CS 193!
 - My instructors are both nice
 - The people in the class are cool
 - The work is easy
